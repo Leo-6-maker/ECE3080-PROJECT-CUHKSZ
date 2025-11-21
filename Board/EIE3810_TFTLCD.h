@@ -2,6 +2,7 @@
 #define __EIE3810_TFTLCD_H
 #include "stm32f10x.h"
 
+
 /* define each color */
 #define BLACK 0x0000
 #define WHITE 0xFFFF

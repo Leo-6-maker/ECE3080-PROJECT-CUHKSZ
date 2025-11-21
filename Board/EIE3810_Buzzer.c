@@ -1,6 +1,7 @@
 #include "stm32f10x.h"
 #include "EIE3810_Buzzer.h"
 
+
 void EIE3810_Buzzer_Init(void)
 {
     // APB2 peripheral clock enable

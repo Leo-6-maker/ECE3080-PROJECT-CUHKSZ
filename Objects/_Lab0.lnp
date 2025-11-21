@@ -1,12 +1,14 @@
 --cpu Cortex-M3
 ".\objects\stm32f10x_rcc.o"
-".\objects\stm32f10x_gpio.o"
 ".\objects\core_cm3.o"
-".\objects\system_stm32f10x.o"
 ".\objects\startup_stm32f10x_hd.o"
+".\objects\system_stm32f10x.o"
+".\objects\eie3810_tftlcd.o"
+".\objects\eie3810_clock.o"
+".\objects\eie3810_usart.o"
 ".\objects\main.o"
 ".\objects\stm32f10x_it.o"
---strict --scatter ".\Objects\_Lab0_1.sct"
+--strict --scatter ".\Objects\_Lab0.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
---list ".\Listings\_Lab0_1.map" -o .\Objects\_Lab0_1.axf
+--list ".\Listings\_Lab0.map" -o .\Objects\_Lab0.axf

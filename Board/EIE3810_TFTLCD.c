@@ -2,6 +2,7 @@
 #include "EIE3810_TFTLCD.h"
 #include "Font.H"
 
+
 extern void Delay(u32 count);
 
 /* write a 16-bit command and then a 16-bit data to the TFTLCD */

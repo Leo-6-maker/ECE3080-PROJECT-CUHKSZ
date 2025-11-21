@@ -2,6 +2,7 @@
 #define __EIE3810_KEY_H
 #include "stm32f10x.h"
 
+
 /* initialize key 2, 1, and up */
 void EIE3810_KEY_Init(void);
 /* initialize key 2 interrupt */

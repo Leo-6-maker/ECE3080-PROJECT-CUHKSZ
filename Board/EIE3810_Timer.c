@@ -1,6 +1,7 @@
 #include "stm32f10x.h"
 #include "EIE3810_Timer.h"
 
+
 void EIE3810_TIM3_Init(u16 arr, u16 psc)
 {
     // TIM3

@@ -33,7 +33,7 @@
 .\objects\main.o: .\Board\EIE3810_JOYPAD.h
 .\objects\main.o: .\Board\EIE3810_Key.h
 .\objects\main.o: .\Board\EIE3810_LED.h
-.\objects\main.o: .\Board\EIE3810_Others.h
 .\objects\main.o: .\Board\EIE3810_TFTLCD.h
 .\objects\main.o: .\Board\EIE3810_Timer.h
 .\objects\main.o: .\Board\EIE3810_USART.h
+.\objects\main.o: .\Board\EIE3810_Others.h

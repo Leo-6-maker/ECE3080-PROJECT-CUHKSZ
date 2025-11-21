@@ -486,16 +486,6 @@
               <FilePath>.\Board\EIE3810_JOYPAD.h</FilePath>
             </File>
             <File>
-              <FileName>EIE3810_Others.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Board\EIE3810_Others.c</FilePath>
-            </File>
-            <File>
-              <FileName>EIE3810_Others.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Board\EIE3810_Others.h</FilePath>
-            </File>
-            <File>
               <FileName>EIE3810_Timer.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Board\EIE3810_Timer.c</FilePath>
@@ -509,6 +499,16 @@
               <FileName>Font.H</FileName>
               <FileType>5</FileType>
               <FilePath>.\Board\Font.H</FilePath>
+            </File>
+            <File>
+              <FileName>EIE3810_Others.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Board\EIE3810_Others.c</FilePath>
+            </File>
+            <File>
+              <FileName>EIE3810_Others.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Board\EIE3810_Others.h</FilePath>
             </File>
           </Files>
         </Group>

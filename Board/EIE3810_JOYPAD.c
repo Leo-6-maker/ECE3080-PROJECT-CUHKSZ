@@ -1,6 +1,7 @@
 #include "stm32f10x.h"
 #include "EIE3810_JOYPAD.h"
 
+
 void EIE3810_JOYPAD_Init(void)
 {
     RCC->APB2ENR |= 1 << 3;   // enable GPIOB clock
