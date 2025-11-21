@@ -2,6 +2,17 @@
 
 A 2-player bouncing ball game developed for the ECE3080 Microprocessors and Computer Systems course at The Chinese University of Hong Kong, Shenzhen.
 
+## Demo
+<iframe 
+  width="800" 
+  height="450" 
+  src="https://www.youtube.com/embed/0ujPZghajaQ" 
+  title="Project Demo"  
+  frameborder="0"  
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
+  allowfullscreen 
+></iframe>
+
 ## 🎮 Project Overview
 
 This project implements a complete 2-player bouncing ball game using embedded systems concepts. The game features real-time player controls, collision detection, multiple game states, and visual feedback through an LCD display.
